@@ -42,14 +42,14 @@ export function DashboardSidebar({ isOpen, onToggle }: SidebarProps) {
       icon: UserCog,
     },
     {
-      name: "Analytics",
-      href: "/dashboard/analytics",
-      icon: BarChart3,
+      name: "Services",
+      href: "/dashboard/services",
+      icon: FileText,
     },
     {
       name: "Reports",
       href: "/dashboard/reports",
-      icon: FileText,
+      icon: BarChart3,
     },
   ];
 
